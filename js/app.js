@@ -65,7 +65,7 @@ if (this.y > 380) {
      this.y = 380;
  }
 }
-
+// test
 
 Player.prototype.handleInput = function(control) {
   switch (control) {
